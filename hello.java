@@ -1,8 +1,8 @@
-class hello
+class hello     from dev11
 {
-	public static void main()
+	public static void main()     from dev11
 	{
-		system.out.println("hello");
+		system.out.println("hello cis");
 	}	
 
 }	
